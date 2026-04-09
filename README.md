@@ -50,9 +50,8 @@ NT-HAZE/
 
 The NT-HAZE dataset is available at:
 
-- Training set: [Download Link]
-- Validation set: [Download Link]
-- Test set: [Download Link]
+- Dataset: [Download Link]
+
 
 
 ## Event Links
